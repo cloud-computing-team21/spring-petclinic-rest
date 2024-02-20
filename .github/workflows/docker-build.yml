@@ -3,7 +3,7 @@ name: Build to Docker Hub
 
 on:
   push:
-    branches: [master, feature/prueba]
+    branches: [master, feature/pruebas]
 
 jobs:
   build:
